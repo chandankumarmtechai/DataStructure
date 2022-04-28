@@ -1,0 +1,50 @@
+Design and Implementation :
+
+1. Implement Queue using Stacks
+2. Design and Implement Special Stack Data Structure | Added Space Optimized Version
+3. Implement two stacks in an array
+4. Implement Stack using Queues
+5. Design a stack with operations on middle element
+6. How to efficiently implement k stacks in a single array?
+7. How to create mergable stack?
+8. Design a stack that supports getMin() in O(1) time and O(1) extra space
+9. Implement a stack using single queue
+10. How to implement stack using priority queue or heap?
+11. Create a customized data structure which evaluates functions in O(1)
+12. Implement Stack and Queue using Deque
+
+
+Operations on Stack :
+
+1. Reverse a stack using recursion
+2. Sort a stack using recursion
+3. Sort a stack using a temporary stack
+4. Reverse a stack without using extra space in O(n)
+5. Delete middle element of a stack
+6. Sorting array using Stacks
+7. Delete array elements which are smaller than next or become smaller
+8. Check if a queue can be sorted into another queue using a stack
+9. Reverse individual words
+10. Count subarrays where second highest lie before highest
+11. Check if an array is stack sortable
+
+Standard Problems based on Stack :
+
+1. Infix to Postfix Conversion using Stack
+2. Prefix to Infix Conversion
+3. Prefix to Postfix Conversion
+4. Postfix to Prefix Conversion
+5. Postfix to Infix
+6. Convert Infix To Prefix Notation
+7. The Stock Span Problem
+8. Check for balanced parentheses in an expression
+9. Next Greater Element
+10. Next Greater Frequency Element
+11. Number of NGEs to the right
+12. Maximum product of indexes of next greater on left and right
+13. The Celebrity Problem
+14. Expression Evaluation
+15. Arithmetic Expression Evalution
+16. Evaluation of Postfix Expression
+17. Iterative Tower of Hanoi
+18. Print next greater number of Q queries

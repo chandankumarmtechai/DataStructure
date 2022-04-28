@@ -1,0 +1,182 @@
+Introduction :
+
+1. Binary Tree | Set 1 (Introduction)
+2. Binary Tree | Set 2 (Properties)
+3. Binary Tree | Set 3 (Types of Binary Tree)
+4. Handshaking Lemma and Interesting Tree Properties
+5. Enumeration of Binary Trees
+6. Insertion in a Binary Tree
+7. Deletion in a Binary Tree
+8. BFS vs DFS for Binary Tree
+9. Binary Tree (Array implementation)
+10. AVL with duplicate keys
+11. Applications of tree data structure
+12. Applications of Minimum Spanning Tree Problem
+13. Continuous Tree
+14. Foldable Binary Trees
+15. Expression Tree
+16. Evaluation of Expression Tree
+17. Symmetric Tree (Mirror Image of itself)
+
+
+Traversals :
+
+1. Tree Traversals
+2. Inorder Tree Traversal without Recursion
+3. Inorder Tree Traversal without recursion and without stack!
+4. Print Postorder traversal from given Inorder and Preorder traversals
+5. Find postorder traversal of BST from preorder traversal
+6. Find all possible binary trees with given Inorder Traversal
+7. Replace each node in binary tree with the sum of its inorder predecessor and successor
+8. Populate Inorder Successor for all nodes
+9. Inorder Successor of a node in Binary Tree
+10. Find n-th node of inorder traversal
+11. Find n-th node in Postorder traversal of a Binary Tree
+12. Level Order Tree Traversal
+13. Level order traversal in spiral form
+14. Level order traversal line by line
+15. Level order traversal with direction change after every two levels
+16. Reverse Level Order Traversal
+17. Reverse tree path
+18. Perfect Binary Tree Specific Level Order Traversal
+19. Perfect Binary Tree Specific Level Order Traversal | Set 2
+20. Reverse alternate levels of a perfect binary tree
+21. Morris traversal for Preorder
+22. Iterative Preorder Traversal
+23. Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+24. Iterative Postorder Traversal | Set 2 (Using One Stack)
+25. Postorder traversal of Binary Tree without recursion and without stack
+26. Diagonal Traversal of Binary Tree
+27. Iterative diagonal traversal of binary tree
+28. Boundary Traversal of binary tree
+29. Density of Binary Tree in One Traversal
+30. Calculate depth of a full Binary tree from Preorder
+31. Number of Binary Trees for given Preorder Sequence length
+32. Modify a binary tree to get Preorder traversal using right pointers only
+
+Construction & Conversion :
+
+1. Construct Tree from given Inorder and Preorder traversals
+2. Construct a tree from Inorder and Level order traversals
+3. Construct Complete Binary Tree from its Linked List Representation
+4. Construct a complete binary tree from given array in level order fashion
+5. Construct Full Binary Tree from given preorder and postorder traversals
+6. Construct Full Binary Tree using its Preorder traversal and Preorder traversal of its mirror tree
+7. Construct a special tree from given preorder traversal
+8. Construct tree from ancestor matrix
+9. Construct Ancestor Matrix from a Given Binary Tree
+10. Construct Special Binary Tree from given Inorder traversal
+11. Construct Binary Tree from given Parent Array representation
+12. Construct a Binary Tree from Postorder and Inorder
+13. Create a Doubly Linked List from a Ternary Tree
+14. Creating a tree with Left-Child Right-Sibling Representation
+15. Prufer Code to Tree Creation
+16. If you are given two traversal sequences, can you construct the binary tree?
+17. Construct the full k-ary tree from its preorder traversal
+18. Construct Binary Tree from String with bracket representation
+19. Linked complete binary tree & its creation
+20. Convert a given Binary Tree to Doubly Linked List | Set 1
+21. Convert a given Binary Tree to Doubly Linked List | Set 2
+22. Convert a given Binary Tree to Doubly Linked List | Set 3
+23. Convert a given Binary Tree to Doubly Linked List | Set 4
+24. Convert an arbitrary Binary Tree to a tree that holds Children Sum Property
+25. Convert left-right representation of a binary tree to down-right
+26. Convert a given tree to its Sum Tree
+27. Change a Binary Tree so that every node stores sum of all nodes in left subtree
+28. Write an Efficient Function to Convert a Binary Tree into its Mirror Tree
+29. Convert a Binary Tree into Doubly Linked List in spiral fashion
+30. Convert a Binary Tree to a Circular Doubly Link List
+31. Convert a tree to forest of even nodes
+32. Convert a given Binary tree to a tree that holds Logical AND property
+33. Convert Ternary Expression to a Binary Tree
+34. Flip Binary Tree
+35. Minimum swap required to convert binary tree to binary search tree
+
+Checking & Printing :
+
+1. Check for Children Sum Property in a Binary Tree
+2. Check if a given Binary Tree is SumTree
+3. Check sum of Covered and Uncovered nodes of Binary Tree
+4. Check if two nodes are cousins in a Binary Tree
+5. Check if all leaves are at same level
+6. Check if removing an edge can divide a Binary Tree in two halves
+7. Check if given Preorder, Inorder and Postorder traversals are of same tree
+8. Given level order traversal of a Binary Tree, check if the Tree is a Min-Heap
+9. Check if leaf traversal of two Binary Trees is same?
+10. Check if a given Binary Tree is SumTree
+11. Check whether a given binary tree is perfect or not
+12. Check whether a binary tree is a full binary tree or not
+13. Check whether a binary tree is a full binary tree or not | Iterative Approach
+14. Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)
+15. Check if a given Binary Tree is height balanced like a Red-Black Tree
+16. Check if a binary tree is subtree of another binary tree | Set 2
+17. Check if a Binary Tree (not BST) has duplicate values
+18. Check if a Binary Tree contains duplicate subtrees of size 2 or more
+19. Check if a given graph is tree or not
+20. Check if two trees are Mirror
+21. Iterative method to check if two trees are mirror of each other
+22. Write Code to Determine if Two Trees are Identical
+23. Iterative function to check if two trees are identical
+24. Check for Symmetric Binary Tree (Iterative Approach)
+25. Check if there is a root to leaf path with given sequence
+26. Print middle level of perfect binary tree without finding height
+27. Print cousins of a given node in Binary Tree
+28. Given a binary tree, print out all of its root-to-leaf paths one per line
+29. Print the longest leaf to leaf path in a Binary tree.
+30. Print path from root to a given node in a binary tree
+31. Print root to leaf paths without using recursion
+32. Print all root to leaf paths with there relative positions
+33. Print the nodes at odd levels of a tree
+34. Print all full nodes in a Binary Tree
+
+Summation :
+
+1. Sum of all nodes in a binary tree
+2. Sum of all the parent nodes having child node x
+3. Find sum of all left leaves in a given Binary Tree
+4. Find sum of all right leaves in a given Binary Tree
+5. Find sum of all nodes of the given perfect binary tree
+6. Diagonal Sum of a Binary Tree
+7. Find if there is a pair in root to a leaf path with sum equals to root’s data
+8. Sum of nodes on the longest path from root to leaf node
+9. Remove all nodes which don’t lie in any path with sum>= k
+10. Find the maximum path sum between two leaves of a binary tree
+11. Find the maximum sum leaf to root path in a Binary Tree
+12. Maximum sum of nodes in Binary tree such that no two are adjacent
+13. Maximum sum from a tree with adjacent levels not allowed
+14. Find largest subtree sum in a tree
+15. Print all k-sum paths in a binary tree
+16. Sum of heights of all individual nodes in a binary tree
+17. Subtree with given sum in a Binary Tree
+18. Count subtress that sum up to a given value x
+19. Sum of nodes at maximum depth of a Binary Tree
+20. Difference between sums of odd level and even level nodes of a Binary Tree
+21. Find maximum level sum in Binary Tree
+22. Maximum spiral sum in Binary Tree
+23. Sum of nodes at k-th level in a tree represented as string
+24. Sum of all leaf nodes of binary tree
+25. Sum of leaf nodes at minimum level
+26. Root to leaf path sum equal to a given number
+27. Sum of all the numbers that are formed from root to leaf paths
+28. Merge Two Binary Trees by doing Node Sum (Recursive and Iterative)
+29. Vertical Sum in a given Binary Tree | Set 1
+30. Vertical Sum in Binary Tree
+31. Find root of the tree where children id sum for every node is given
+32. Replace each node in binary tree with the sum of its inorder predecessor and successor
+33. Find largest subtree sum in a tree
+
+Longest Common Ancestor :
+
+1. Lowest Common Ancestor in a Binary Tree | Set 1
+2. Lowest Common Ancestor in a Binary Tree | Set 2 (Using Parent Pointer)
+3. Lowest Common Ancestor in a Binary Tree | Set 3
+4. Find distance between two nodes of a Binary Tree
+5. Print common nodes on path from root (or common ancestors)
+6. Find LCA in Binary Tree using RMQ
+7. Maximum difference between node and its ancestor in Binary Tree
+8. Print the path common to the two paths from the root to the two given nodes
+9. Query for ancestor-descendant relationship in a tree
+10. Iterative method to find ancestors of a given binary tree
+11. Print Ancestors of a given node in Binary Tree
+12. Kth ancestor of a node in binary tree
+

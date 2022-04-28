@@ -1,0 +1,48 @@
+1. Binary Heap
+2. Time Complexity of building a heap
+3. Applications of Heap Data Structure
+4. Binomial Heap
+5. Fibonacci Heap
+6. Leftist Heap
+7. K-ary Heap
+8. Heap Sort
+9. Iterative Heap Sort
+10. K’th Largest Element in an array
+11. K’th Smallest/Largest Element in Unsorted Array | Set 1
+12. Sort an almost sorted array/
+13. Tournament Tree (Winner Tree) and Binary Heap
+14. Check if a given Binary Tree is Heap
+15. How to check if a given array represents a Binary Heap?
+16. Connect n ropes with minimum cost
+17. Design an efficient data structure for given operations
+18. Merge k sorted arrays | Set 1
+19. Merge Sort Tree for Range Order Statistics
+20. Sort numbers stored on different machines
+21. Smallest Derangement of Sequence
+22. Largest Derangement of a Sequence
+23. K maximum sum combinations from two arrays
+24. Maximum distinct elements after removing k elements
+25. Maximum difference between two subsets of m elements
+26. Height of a complete binary tree (or Heap) with N nodes
+27. Heap Sort for decreasing order using min heap
+28. Print all nodes less than a value x in a Min Heap.
+29. Median of Stream of Running Integers using STL
+30. Largest triplet product in a stream
+31. Find k numbers with most occurrences in the given array
+32. Convert BST to Min Heap
+33. Merge two binary Max Heaps
+34. K-th Largest Sum Contiguous Subarray
+35. Minimum product of k integers in an array of positive Integers
+36. Leaf starting point in a Binary Heap data structure
+37. Why is Binary Heap Preferred over BST for Priority Queue?
+38. Convert min Heap to max Heap
+39. Given level order traversal of a Binary Tree, check if the Tree is a Min-Heap
+40. Rearrange characters in a string such that no two adjacent are same
+41. Implementation of Binomial Heap
+42. Array Representation Of Binary Heap
+43. Sum of all elements between k1’th and k2’th smallest elements
+44. Minimum sum of two numbers formed from digits of an array
+45. K’th largest element in a stream
+46. k largest(or smallest) elements in an array | added Min Heap method
+47. Median in a stream of integers (running integers)
+48. Sort a nearly sorted (or K sorted) array

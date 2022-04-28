@@ -1,0 +1,45 @@
+Binary Tree
+
+Traversals
+******************
+Breadth first
+Depth first
+  Inorder
+  preoreder
+  postorder
+
+Spiral (zig zag)
+vertical order
+Boundary order
+
+
+View
+*****************
+Top view
+Bottom View
+Left View
+Right View
+
+*****************************
+Height of binary tree
+Diameter of binary tree
+Lowest commom ancestor
+Print diagonal elemnts of tree
+print all ancestors of of a node in binary tree
+print all path root to leaves
+Convert Binary tree to its mirror image
+Check two binary tree are isomorphic
+check two binary tree are identical
+Convert binary tree to doubly linked list
+Print number of leaf nodes
+print the nodes at odd level
+top three elements in binary tree
+smallest value in each level of binary tree
+
+types of binary tree
+*******************************************
+binary search tree
+full binary tree
+strict binary tree
+
+

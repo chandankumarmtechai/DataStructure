@@ -1,0 +1,38 @@
+Design and Implementation :
+
+1. Implement Queue using Stacks
+2. LRU Cache Implementation
+3. Implement Stack using Queues
+4. Queue | Set 2 (Linked List Implementation)
+5. How to efficiently implement k Queues in a single array?
+6. Implement a stack using single queue
+7. Implementation of Deque using circular array
+8. Circular Queue | Set 2 (Circular Linked List Implementation)
+9. Implement Stack and Queue using Deque
+10. Priority Queue using Linked List
+11. Priority Queue using doubly linked list
+12. Implementation of Deque using doubly linked list
+
+Operations on Queue :
+
+1. Reversing a Queue
+2. Reversing a queue using recursion
+3. Reversing the first K elements of a Queue
+4. Interleave the first half of the queue with second half
+5. Sorting a Queue without extra space
+
+Standard Problems :
+
+1. Check if a queue can be sorted into another queue using a stack
+2. Breadth First Traversal or BFS for a Graph
+3. Level Order Tree Traversal
+4. Reverse a path in BST using queue
+5. Construct Complete Binary Tree from its Linked List Representation
+6. Program for Page Replacement Algorithms | Set 2 (FIFO)
+7. Check whether a given Binary Tree is Complete or not | Set 1 (Iterative Solution)
+8. Number of siblings of a given Node in n-ary Tree
+9. ZigZag Tree Traversal
+10. FIFO (First-In-First-Out) approach in Programming
+11. FIFO vs LIFO approach in Programming
+12. LIFO (Last-In-First-Out) approach in Programming
+
